@@ -16,4 +16,4 @@ The idea why we need send alert billing to slack channel, we can aware our billi
 #### Filter and auto forward ready
 ![alt text](https://i.imgur.com/spssy7h.png)
 #### Example 
-![alt text](hhttps://i.imgur.com/nQjtv5I.png)
+![alt text](https://i.imgur.com/nQjtv5I.png)
